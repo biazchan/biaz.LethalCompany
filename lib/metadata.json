@@ -1,0 +1,364 @@
+{
+  "vaultName": "一些日記2",
+  "lastExport": 1741880986858,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon links-int-on",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "致命公司Lethal Company/Lethal Company所有模組/0致命公司模組管理.md",
+    "致命公司Lethal Company/Lethal Company所有模組/AdditionalSuitsPLUS更多衣服.md",
+    "致命公司Lethal Company/Lethal Company所有模組/BetterEmotes.md",
+    "致命公司Lethal Company/Lethal Company所有模組/BrutalCompanyMinusExtraReborn.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Dantors Mental Hospital.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Diversity.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Dungeons Ultimately Lacking Liveliness.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Emergency Dice Updated.md",
+    "致命公司Lethal Company/Lethal Company所有模組/FixCameraResolution.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Football.md",
+    "致命公司Lethal Company/Lethal Company所有模組/GeneralImprovements.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Haunted Harpist.md",
+    "致命公司Lethal Company/Lethal Company所有模組/HookGun.md",
+    "致命公司Lethal Company/Lethal Company所有模組/LateCompany.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Lategame Upgrades.md",
+    "致命公司Lethal Company/Lethal Company所有模組/LethalEscapeUpdated.md",
+    "致命公司Lethal Company/Lethal Company所有模組/LethalThings.md",
+    "致命公司Lethal Company/Lethal Company所有模組/LiminalPools.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Locker.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Mirage.md",
+    "致命公司Lethal Company/Lethal Company所有模組/More Suits.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Peepers.md",
+    "致命公司Lethal Company/Lethal Company所有模組/ReservedItemSlotCore.md",
+    "致命公司Lethal Company/Lethal Company所有模組/ScarletDevilMansion紅魔鬼大廈.md",
+    "致命公司Lethal Company/Lethal Company所有模組/SchoolDungeon.md",
+    "致命公司Lethal Company/Lethal Company所有模組/Scopophobia.md",
+    "致命公司Lethal Company/Lethal Company所有模組/SCPFoundationDungeon.md",
+    "致命公司Lethal Company/Lethal Company所有模組/ShipLoot.md",
+    "致命公司Lethal Company/Lethal Company所有模組/ShipWindows.md",
+    "致命公司Lethal Company/Lethal Company所有模組/TeraSpace.md",
+    "致命公司Lethal Company/Lethal Company所有模組/TheGiantSpecimens.md",
+    "致命公司Lethal Company/Lethal Company所有模組/TooManyEmotes.md",
+    "致命公司Lethal Company/Lethal Company所有模組/WesleysInteriors衛斯理得室內.md",
+    "致命公司Lethal Company/模組收集新.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "致命公司Lethal Company/Lethal Company所有模組/0致命公司模組管理.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 3658,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/0致命公司模組管理.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/AdditionalSuitsPLUS更多衣服.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 248,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/AdditionalSuitsPLUS更多衣服.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/BetterEmotes.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 259,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/BetterEmotes.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/BrutalCompanyMinusExtraReborn.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 305,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/BrutalCompanyMinusExtraReborn.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Dantors Mental Hospital.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 315,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Dantors Mental Hospital.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Diversity.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 270,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Diversity.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Dungeons Ultimately Lacking Liveliness.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 932,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Dungeons Ultimately Lacking Liveliness.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Emergency Dice Updated.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 286,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Emergency Dice Updated.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/FixCameraResolution.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 246,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/FixCameraResolution.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Football.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 597,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Football.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/GeneralImprovements.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 283,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/GeneralImprovements.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Haunted Harpist.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 246,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Haunted Harpist.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/HookGun.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 240,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/HookGun.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/LateCompany.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 239,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/LateCompany.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Lategame Upgrades.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 260,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Lategame Upgrades.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/LethalEscapeUpdated.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 263,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/LethalEscapeUpdated.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/LethalThings.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 258,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/LethalThings.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/LiminalPools.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 309,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/LiminalPools.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Locker.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 316,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Locker.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Mirage.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 254,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Mirage.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/More Suits.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 225,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/More Suits.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Peepers.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 310,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Peepers.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/ReservedItemSlotCore.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 275,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/ReservedItemSlotCore.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/ScarletDevilMansion紅魔鬼大廈.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 308,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/ScarletDevilMansion紅魔鬼大廈.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/SchoolDungeon.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 298,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/SchoolDungeon.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/Scopophobia.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 341,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/Scopophobia.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/SCPFoundationDungeon.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 319,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/SCPFoundationDungeon.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/ShipLoot.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 244,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/ShipLoot.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/ShipWindows.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 278,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/ShipWindows.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/TeraSpace.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 982,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/TeraSpace.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/TheGiantSpecimens.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 386,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/TheGiantSpecimens.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/TooManyEmotes.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 259,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/TooManyEmotes.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/Lethal Company所有模組/WesleysInteriors衛斯理得室內.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 778,
+      "exportedPath": "致命公司Lethal Company/Lethal Company所有模組/WesleysInteriors衛斯理得室內.html",
+      "dependencies": []
+    },
+    "致命公司Lethal Company/模組收集新.md": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 926,
+      "exportedPath": "致命公司Lethal Company/模組收集新.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741880986858,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    }
+  }
+}
